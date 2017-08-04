@@ -9,7 +9,7 @@ void setup(){
   size(1366,768);
   background(0);
   for (int i=0;i<popA;i++){
-    a[i]= new orgA();
+    a[i]= new orgA();m
     a[i].id=i;
     print(a[i].id);
   }
